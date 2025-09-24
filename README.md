@@ -1,4 +1,3 @@
-```markdown
 # Temp One - Leon Template
 
 A clean and minimal **HTML5 & CSS3** website template, designed for creative agencies and personal portfolios.  
